@@ -26,7 +26,6 @@ button:focus{
     cursor: pointer;
 }
 .btn-cart:hover{
-    background-color: #FF5621;
     background-color: transparent;
     border-color: #fafafa;
     color: #fafafa;
